@@ -62,8 +62,8 @@ Sou apaixonado por programação e por transformar ideias em projetos reais. Gos
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=konodiotota&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konodiotota&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
 
